@@ -11,14 +11,14 @@ redirect_from:
 
 Courses
 ======
-* Digital Image Processing
-* Advanced Image Processing
-* Pattern Recognition and Neural Networks
-* Advanced Deep Learning
+* Random Processes
 * Matrix Theory
-* Stochastic Models and Applications
-* Computational Methods for Optimization
+* Digital Communication
+* Multiuser Detection
+* Wireless Communication
+* Time-Frequency Analysis
+* Detection and Estimation Theory
 
-Teaching Experience
+<!--Teaching Experience
 ======
-I worked as a Teaching Assistant for the course Digital Image Processing, Fall 2021 at IISc.
+I worked as a Teaching Assistant for the course Digital Image Processing, Fall 2021 at IISc.-->
