@@ -15,7 +15,7 @@ I am currently pursuing my PhD in the Department of Electrical Communication Eng
 I am interested in applying learning methods to solve computer vision problems, where one has access to only limited data and can encounter distribution shifts.
 Over the course of my PhD, I aim to develop methods capable of learning and adapting in such dynamic real-world environments with less data and compute power.-->
 
-Please find my CV [here](http://manogna-s.github.io/files/ManognaS_CV_Jun2022_PMRF.pdf).
+Please find my CV [here](http://manogna-s.github.io/files/CV_PMRF_updated_11_Jun_2022.pdf).
 
 
 
