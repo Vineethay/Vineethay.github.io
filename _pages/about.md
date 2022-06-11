@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Manogna S, currently pursuing my PhD at the Department of Electrical Engineering, IISc, Bangalore. I work at the IACV lab under the supervision of Dr. Soma Biswas. Prior to this, I worked as a Software Engineer at PathPartner Technology, Bangalore for about three years. I graduated with a B.Tech in Electrical and Electronics Engineering from NITK Surathkal in 2017.
+I am currently pursuing my PhD at the Department of Electrical Engineering, IISc, Bangalore. I work at the IACV lab under the supervision of Dr. Soma Biswas. 
+
+Prior to this, I worked as a Software Engineer at PathPartner Technology, Bangalore for about three years. I graduated with a B.Tech in Electrical and Electronics Engineering from NITK Surathkal in 2017.
 
 I am interested in applying learning methods to solve computer vision problems, where one has access to only limited data and can encounter distribution shifts.
 Over the course of my PhD, I aim to develop methods capable of learning and adapting in such dynamic real-world environments with less data and compute power.
