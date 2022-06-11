@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academics"
+title: 
 permalink: /academics/
 author_profile: true
 redirect_from:
