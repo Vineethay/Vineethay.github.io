@@ -11,7 +11,7 @@ redirect_from:
 
 Delay-Doppler Signal Processing in Orthogonal Time Frequency Space (OTFS) Modulation for 6G and Beyond
 ======
-**Under review, In collaboration with AISIN Corporation, Japan**
+<!-- **Under review, In collaboration with AISIN Corporation, Japan** -->
 
 <!--The objective is to utilize labelled source domain data along with unlabelled target domain data effectively recognize facial expressions in the target domain. Proposed **D**ata **I**mbalance and **F**eature **C**onfusion(DIFC) module to mitigate the effect of class imbalance due to labeled source
 domain samples, while also reducing confusion among classes in target domain.
