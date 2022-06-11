@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my PhD at the Department of Electrical Engineering, IISc, Bangalore. I work at the IACV lab under the supervision of Dr. Soma Biswas. 
+I am currently pursuing my PhD in the Department of Electrical Communication Engineering at Indian Institute of Science Bangalore under the guidance of Prof.Dr. A. Chockalingam. 
 
-Prior to this, I worked as a Software Engineer at PathPartner Technology, Bangalore for about three years. I graduated with a B.Tech in Electrical and Electronics Engineering from NITK Surathkal in 2017.
+<!--Prior to this, I worked as a Software Engineer at PathPartner Technology, Bangalore for about three years. I graduated with a B.Tech in Electrical and Electronics Engineering from NITK Surathkal in 2017.
 
 I am interested in applying learning methods to solve computer vision problems, where one has access to only limited data and can encounter distribution shifts.
-Over the course of my PhD, I aim to develop methods capable of learning and adapting in such dynamic real-world environments with less data and compute power.
+Over the course of my PhD, I aim to develop methods capable of learning and adapting in such dynamic real-world environments with less data and compute power.-->
 
 Please find my CV [here](http://manogna-s.github.io/files/ManognaS_CV_Jun2022_PMRF.pdf).
 
