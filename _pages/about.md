@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my PhD in the Department of Electrical Communication Engineering at Indian Institute of Science Bangalore under the guidance of Prof.Dr. A. Chockalingam. 
+I am currently pursuing PhD in the Department of Electrical Communication Engineering at Indian Institute of Science Bangalore under the guidance of Prof.Dr. A. Chockalingam. 
 
 <!--Prior to this, I worked as a Software Engineer at PathPartner Technology, Bangalore for about three years. I graduated with a B.Tech in Electrical and Electronics Engineering from NITK Surathkal in 2017.
 
