@@ -9,8 +9,10 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Delay-Doppler Signal Processing in Orthogonal Time Frequency Space (OTFS) Modulation for 6G and Beyond
+Wireless Communication (PHY layer)
 ======
+Currently working on delay-Doppler domain signal processing for orthogonal time frequency space (OTFS) modulation. 
+
 <!-- **Under review, In collaboration with AISIN Corporation, Japan** -->
 
 <!--The objective is to utilize labelled source domain data along with unlabelled target domain data effectively recognize facial expressions in the target domain. Proposed **D**ata **I**mbalance and **F**eature **C**onfusion(DIFC) module to mitigate the effect of class imbalance due to labeled source
