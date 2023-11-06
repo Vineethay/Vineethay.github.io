@@ -15,7 +15,7 @@ Currently working on delay-Doppler domain signal processing for orthogonal time 
 
 Publications
 ======
-* Vineetha Yogesh, Vighnesh S Bhat, Sandesh Rao Mattu, and A. Chockalingam, "On the bit error performance of OTFS modulation using discrete Zak transform," IEEE ICC 2023.
+* Vineetha Yogesh, Vighnesh S Bhat, Sandesh Rao Mattu, and A. Chockalingam, "On the bit error performance of OTFS modulation using discrete Zak transform," _Proc. IEEE ICC 2023_,  pp. 741-746, June 2023.
 
 
 <!-- **Under review, In collaboration with AISIN Corporation, Japan** -->
