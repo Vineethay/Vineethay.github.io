@@ -13,7 +13,12 @@ Wireless Communication (PHY layer)
 ======
 Currently working on delay-Doppler domain signal processing for orthogonal time frequency space (OTFS) modulation. 
 
-Vineetha Yogesh, Vighnesh S Bhat, Sandesh Rao Mattu, and A. Chockalingam, "On the bit error performance of OTFS modulation using discrete Zak transform," IEEE ICC 2023.
+Publications
+======
+* Vineetha Yogesh, Vighnesh S Bhat, Sandesh Rao Mattu, and A. Chockalingam, "On the bit error performance of OTFS modulation using discrete Zak transform," IEEE ICC 2023.
+* Matrix Theory
+
+
 <!-- **Under review, In collaboration with AISIN Corporation, Japan** -->
 
 <!--The objective is to utilize labelled source domain data along with unlabelled target domain data effectively recognize facial expressions in the target domain. Proposed **D**ata **I**mbalance and **F**eature **C**onfusion(DIFC) module to mitigate the effect of class imbalance due to labeled source
